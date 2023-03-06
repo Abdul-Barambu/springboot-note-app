@@ -1,0 +1,50 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.note-header {
+    margin-top: 5%;
+    margin-bottom: 4%;
+    text-align: center;
+}
+
+.card {
+    margin: 0 .6rem;
+    border-radius: 10px;
+}
+
+.card-body {
+    background-color: lightgray;
+    box-shadow: 5px 2px 26px 5px rgba(0, 0, 0, 0.75) inset;
+    -webkit-box-shadow: 5px 2px 26px 5px rgba(0, 0, 0, 0.75) inset;
+    -moz-box-shadow: 5px 2px 26px 5px rgba(0, 0, 0, 0.75) inset;
+    border-radius: 10px;
+}
+
+div ul {
+    padding-left: 0;
+}
+
+.add-icon{
+    font-size: 4rem;
+    /* float: right; */
+    /* bottom: 0; */
+}
+
+Link div.card-body{
+    text-decoration: none;
+    color: black;
+}
+
+.link-deco{
+    text-decoration:black;
+    color: black;
+}
+
+.delete-icon{
+    float: right;
+    text-decoration: none;
+    color: black;
+}
